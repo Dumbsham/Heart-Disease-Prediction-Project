@@ -12,8 +12,8 @@
 
 [Demo](#-usage) • [Features](#-features) • [Installation](#-installation) • [Dataset](#-dataset) • [Models](#-model-performance)
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?style=for-the-badge&logo=github)](https://github.com/Dumbsham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saksham14sharma)
 
 </div>
 
